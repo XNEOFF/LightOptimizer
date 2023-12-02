@@ -22,4 +22,5 @@ cd LightOptimizer && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNE
 To update Light Optimizer, run the following command:
 
 ```shell
-rm -rf LightOptimizer && git clone https://github.com/XNEOFF/LightOptimizer && cd LightOptimizer && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh```
+rm -rf LightOptimizer && git clone https://github.com/XNEOFF/LightOptimizer && cd LightOptimizer && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh
+```
