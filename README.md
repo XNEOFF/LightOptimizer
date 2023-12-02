@@ -9,9 +9,9 @@ To install in Termux, use the following command:
 pkg install git && git clone https://github.com/XNEOFF/LightOptimizer && cd LightOptimizer && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh
 ```
 
-## Running XNEO Optimizer
+## Running Light Optimizer
 
-To use XNEO Optimizer anytime, run the following command:
+To use Light Optimizer anytime, run the following command:
 
 ```shell
 cd LightOptimizer && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh
