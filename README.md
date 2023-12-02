@@ -1,26 +1,35 @@
-# LightOptimizer
-Enhance your phone's performance with Light Optimizer, boosting FPS for a smoother experience.
+# LightOptimizer Installation and Usage Guide
 
-## Installation
+Supercharge your phone's performance with LightOptimizer! Boost FPS for a seamlessly smooth experience.
 
-Install Light Optimizer in Termux using the following command:
+### Installation
+
+Install LightOptimizer in Termux with this command:
 
 ```shell
-pkg install git && git clone https://github.com/XNEOFF/LightOptimizer && cd LightOptimizer && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh
+pkg install git && git clone https://github.com/XNEOFF/LightOptimizer && cd LightOptimizer && rm -rf LICENSE && rm -rf README.md && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh
 ```
 
-## Running Light Optimizer
+### Running LightOptimizer
 
-To use Light Optimizer anytime, execute the following command:
+Execute this command to use LightOptimizer anytime:
 
 ```shell
 cd LightOptimizer && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh
 ```
 
-## Update to New Version
+### Update to New Version
 
-To update the Light Optimizer, run the following command:
+To update LightOptimizer, run:
 
 ```shell
-rm -rf LightOptimizer && git clone https://github.com/XNEOFF/LightOptimizer && cd LightOptimizer && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh
+rm -rf LightOptimizer && git clone https://github.com/XNEOFF/LightOptimizer && cd LightOptimizer && rm -rf LICENSE && rm -rf README.md && chmod +x "LightOptimizerByXNEO.sh" && ./LightOptimizerByXNEO.sh
+```
+
+### Troubleshooting Installation Issues
+
+If LightOptimizer won't install, try switching repositories:
+
+```shell
+termux-repo-change
 ```
