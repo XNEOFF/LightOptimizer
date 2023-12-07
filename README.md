@@ -31,5 +31,5 @@ rm -rf LightOptimizer && git clone https://github.com/XNEOFF/LightOptimizer && c
 If LightOptimizer won't install, try switching repositories:
 
 ```shell
-termux-repo-change
+termux-change-repo
 ```
